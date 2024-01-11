@@ -1,0 +1,108 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    
+
+
+}
+
+body{
+    background-image: url(https://shoutitoutdesign.com/wp-content/uploads/2019/01/restaurant-website-design.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+    background-position: 20%;
+}
+
+
+
+
+img#large {
+    border-radius: 100%;
+    margin-inline: 26%;
+    width: 40%;
+    height: 30%;
+    transition: width 2s;
+
+}
+
+
+img#large:hover {
+       width: 50%;
+}
+
+
+
+#center{
+          background-color: black;
+          color:seashell;
+          text-decoration: none;
+          font-size: 290%;
+          margin-left: 25%;
+          padding-top: 1%;
+          padding-bottom: 2%;
+
+}
+
+
+#time{
+    background-color: black;
+    font-size: 200%;
+    font-weight: bold;
+    color: aliceblue;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#saywelfdas {
+    border-radius: 100%;
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    font-size: 500%;
+    margin-top: auto;
+    padding: auto;
+}
+
+
+
+.an h3 {
+    color: aqua;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+
+
+h3 {
+    color: ghostwhite;
+
+}
+
+
+p {
+    font-size: 400%;
+    color: azure;
+}
+
+
+input.border {
+    border: 3px solid  20%;
+    padding: 1%;
+    border-color: black;
+    border-radius: 30%;
+    text-align: center;
+    
+}
+
+
+
+
+#smit {
+    text-decoration: none;
+    color: blanchedalmond;
+    
+}
+
+div p {
+    text-align: center;
+}
